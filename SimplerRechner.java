@@ -1,9 +1,3 @@
-package SimplerRechner;
-
-// Datum des Startes: 1.08.24
-// Ende wo ich sagen würde es funktionert 6.8.24 + verbesserung oder so
-// hinzufügen von Wurzel 10.8.24
-
 import java.util.Scanner;
 
 public class SimplerRechner {
